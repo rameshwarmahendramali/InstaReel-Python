@@ -5,8 +5,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/rameshwarmahendramali/InstaReel-Python/.git
+git clone 
 Install the required dependencies:
+https://github.com/rameshwarmahendramali/InstaReel-Python
 
 bash
 Copy code
