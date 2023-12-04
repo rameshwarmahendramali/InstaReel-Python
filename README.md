@@ -5,7 +5,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/instagram-downloader.git
+git clone https://github.com/rameshwarmahendramali/InstaReel-Python/.git
 Install the required dependencies:
 
 bash
