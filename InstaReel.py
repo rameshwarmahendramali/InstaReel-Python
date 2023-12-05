@@ -40,14 +40,6 @@ root.geometry(f'{window_width}x{window_height}+{int(x_coordinate)}+{int(y_coordi
 # Set window background color
 root.config(bg='#f0f0f0')
 
-# Load logo
-logo_path = "logo.png"
-try:
-    logo = tk.PhotoImage(file=logo_path)
-    root.iconphoto(True, logo)
-except tk.TclError:
-    print(f"Logo not found at {logo_path}")
-
 # Create and pack widgets
 label_link = tk.Label(root, text="Enter Instagram Video Link:", bg='#f0f0f0')
 label_link.pack(pady=10)
