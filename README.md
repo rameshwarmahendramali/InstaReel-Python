@@ -19,9 +19,6 @@ Copy code
 python instagram_downloader.py
 Enter the Instagram video link and the desired target filename, then click "Download Video."
 
-Screenshots
-Screenshot
-
 Dependencies
 Instaloader: A tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 Contributing
